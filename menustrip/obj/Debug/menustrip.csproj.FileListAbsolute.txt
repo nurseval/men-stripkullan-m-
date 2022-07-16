@@ -1,0 +1,11 @@
+C:\Users\Nur\source\repos\menustrip\bin\Debug\menustrip.exe.config
+C:\Users\Nur\source\repos\menustrip\bin\Debug\menustrip.exe
+C:\Users\Nur\source\repos\menustrip\bin\Debug\menustrip.pdb
+C:\Users\Nur\source\repos\menustrip\obj\Debug\menustrip.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\menustrip\obj\Debug\menustrip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\menustrip\obj\Debug\menustrip.Form1.resources
+C:\Users\Nur\source\repos\menustrip\obj\Debug\menustrip.Properties.Resources.resources
+C:\Users\Nur\source\repos\menustrip\obj\Debug\menustrip.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\menustrip\obj\Debug\menustrip.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\menustrip\obj\Debug\menustrip.exe
+C:\Users\Nur\source\repos\menustrip\obj\Debug\menustrip.pdb
